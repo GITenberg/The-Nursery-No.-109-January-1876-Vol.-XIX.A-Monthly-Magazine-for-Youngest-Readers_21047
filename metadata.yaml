@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21047#The-Nursery-No.-109-January-1876-Vol.-XIX.A-Monthly-Magazine-for-Youngest-Readers
 gutenberg_bookshelf: The Nursery
 gutenberg_issued: '2007-04-12'
 gutenberg_type: Text
